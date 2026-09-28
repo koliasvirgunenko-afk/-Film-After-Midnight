@@ -1,0 +1,19 @@
+# PSP build output
+build/
+dist/
+*.elf
+*.o
+*.prx
+*.pbp
+
+# PSP SDK temporary files
+*.sfo
+*.map
+*.dep
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
